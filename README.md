@@ -1,4 +1,4 @@
-# Clubes de Ciencias 
+# Clubes de Ciencias México
 ![Image text](https://github.com/Oswaldoivann/Clubes-Ciencias-Mx/blob/main/Clubes.jpg)
 
 # MX THE HITCHHIKER'S CLUB 
