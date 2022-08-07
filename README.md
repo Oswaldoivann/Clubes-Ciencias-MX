@@ -6,3 +6,9 @@
 Universidad Veracruzana: Facultad de Ciencias Quimicas
 
 
+## Notebooks
+
+- Juego de los Dados
+- Grafos y Redes
+
+
