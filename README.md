@@ -1,13 +1,10 @@
 # Clubes de Ciencias México
-![Image text](https://github.com/Oswaldoivann/Clubes-Ciencias-Mx/blob/main/Clubes.jpg)
-
 ## MX THE HITCHHIKER'S CLUB 
-
+![Image text](https://github.com/Oswaldoivann/Clubes-Ciencias-Mx/blob/main/Clubes.jpg)
 
 ### Sede: Xalapa
 
-*Universidad Veracruzana*: **Facultad de Ciencias Quimicas**
-
+**Universidad Veracruzana**: *Facultad de Ciencias Quimicas*
 
 ## Notebooks
 
