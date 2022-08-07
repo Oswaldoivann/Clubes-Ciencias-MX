@@ -1,7 +1,8 @@
 # Clubes de Ciencias 
+![Image text](https://github.com/Oswaldoivann/Clubes-Ciencias-Mx/blob/main/Clubes.jpg)
+
 # MX THE HITCHHIKER'S CLUB 
 
-![Image text](https://github.com/Oswaldoivann/Clubes-Ciencias-Mx/blob/main/Clubes.jpg)
 
 ## Sede: Xalapa
 
